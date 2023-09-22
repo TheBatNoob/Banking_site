@@ -27,6 +27,6 @@ Welcome to MyBank. With MyBank, you can create and manage multiple bank accounts
 ### Preventing Account Creation with Balance Less than 0
 - I added a validation check when creating an account to ensure that the initial deposit is greater than 0. Accounts with an initial deposit less than or equal to 0 will not be created.
 
-I hope you find My Online Bank easy to use and a convenient way to manage your finances.
+I hope you find MyBank easy to use and a convenient way to manage your finances.
 
 Happy banking!
