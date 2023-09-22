@@ -4,9 +4,9 @@ Welcome to MyBank. With MyBank, you can create and manage multiple bank accounts
 
 ## Getting Started
 
-1. **Create an Account**: On the left side of the webpage, you'll find a form under the "Create an Account" section. Fill in your name, initial deposit amount (greater than 0), and select your account type (Savings or Current). Click the "Create Account" button to create your account.
+1. **Create an Account**: Under the "Create an Account" section. Fill in your name, initial deposit amount (greater than 0), and select your account type (Savings or Current). Click the "Create Account" button to create your account.
 
-2. **Select an Account**: After creating an account, it will be added to the "Account List" on the right side of the webpage. You can create multiple accounts. Click the "Select" button next to the account you want to interact with; its details will appear on the right.
+2. **Select an Account**: After creating an account, it will be added to the "Account List" . You can create multiple accounts. Click the "Select" button next to the account you want to interact with; its details will appear on the right.
 
 3. **Perform Transactions**: With your account selected, you can perform the following transactions:
    - **Deposit**: Click the "Deposit" button, enter the amount you want to deposit, and confirm. The deposit amount will be added to your account balance.
