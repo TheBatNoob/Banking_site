@@ -1,6 +1,6 @@
 # MyBank Online Banking Website
 
-Welcome to My Bank - your online banking solution. With MyBank, you can create and manage multiple bank accounts. This write-up will guide you on how to use my website and provide insights into the code implementation.
+Welcome to MyBank. With MyBank, you can create and manage multiple bank accounts. This write-up will guide you on how to use my website and provide insights into the code implementation.
 
 ## Getting Started
 
